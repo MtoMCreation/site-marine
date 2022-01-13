@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    font-size: 200px;
+    transition: 500ms;
+}
+
+h1:hover{
+    color: aqua;
+    transform: scale(1.5);
+}
+
+
+p {
+    font-size: 50px;
+}
+
+img{
+    height: 100vh;
+}
